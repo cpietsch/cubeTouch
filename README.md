@@ -8,7 +8,7 @@ https://vimeo.com/81136317
 
 made in openframeworks
 
-#licence
+#license
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
